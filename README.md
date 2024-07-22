@@ -1,4 +1,4 @@
-QRCode-Generator-Interactive
+QRCode-Generator-Interactive:
 This project is an interactive QR code generator built using Node.js. By leveraging the power of inquirer, fs, and qr-image modules, the application prompts users to input a URL and generates a corresponding QR code image. The project demonstrates the seamless integration of user input handling, file system operations, and QR code generation.
 
 Features
